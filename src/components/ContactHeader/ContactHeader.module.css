@@ -1,0 +1,20 @@
+.contact_section {
+                    width: 900px;
+                    margin-left: 150px;
+                    align-items: flex-start; 
+                  }
+
+.contact_section h1 {
+                    font-size: 40px;
+                    font-weight: 800;
+                    width: 80%;
+                    text-align: start;
+          
+                  }
+.contact_section p {
+                    font-size: 16px;
+                    font-weight: 400;
+                    max-width: 60%;
+                    letter-spacing: 0px;
+                    word-spacing: 10px;
+                  }

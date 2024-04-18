@@ -1,0 +1,30 @@
+
+
+.Navigation {
+            display: flex;
+            justify-content: space-between;
+            padding: auto;
+            margin-top: 15px;
+            height: 50px;
+            width: 100%;           
+}
+                  
+.Navigation img {
+               width: 100px;                           
+}
+
+.Navigation ul {
+ display: flex;
+ align-items: center;
+ list-style: none;
+ gap: 50px;
+ font-size: x-large;
+ font-weight: 600;
+ cursor: pointer;
+ }
+
+ @media screen {
+.Navigation {
+               max-width: 100%;              
+}
+ }
